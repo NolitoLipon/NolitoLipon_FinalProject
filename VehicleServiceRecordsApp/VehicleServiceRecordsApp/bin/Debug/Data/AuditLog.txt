@@ -1,0 +1,77 @@
+2026-05-22 19:31:56 | InitializeStorage | Storage folder and files created.
+2026-05-22 19:32:06 | Read | 0 records loaded.
+2026-05-22 19:32:45 | InitializeStorage | Storage folder and files created.
+2026-05-22 19:32:51 | Read | 0 records loaded.
+2026-05-22 19:33:47 | Save | 1 records saved.
+2026-05-22 19:33:47 | Add | Added RecordId 1
+2026-05-22 19:33:52 | Read | 1 records loaded.
+2026-05-22 19:39:34 | InitializeStorage | Storage folder and files created.
+2026-05-22 19:39:39 | Read | 1 records loaded.
+2026-05-22 19:40:48 | Save | 2 records saved.
+2026-05-22 19:40:48 | Add | Added RecordId 2
+2026-05-22 19:40:52 | Read | 2 records loaded.
+2026-05-22 19:41:11 | Read | 2 records loaded.
+2026-05-22 19:41:53 | InitializeStorage | Storage folder and files created.
+2026-05-22 19:41:57 | Read | 2 records loaded.
+2026-05-22 19:42:09 | Save | 2 records saved.
+2026-05-22 19:42:09 | Update | Updated RecordId 1
+2026-05-22 19:42:23 | Read | 2 records loaded.
+2026-05-22 19:42:40 | Save | 2 records saved.
+2026-05-22 19:42:40 | Update | Updated RecordId 1
+2026-05-22 19:42:46 | Read | 2 records loaded.
+2026-05-22 19:43:14 | Read | 2 records loaded.
+2026-05-22 19:43:17 | SoftDelete | Soft deleted RecordId 2
+2026-05-22 19:43:17 | Save | 2 records saved.
+2026-05-22 19:43:21 | Read | 2 records loaded.
+2026-05-22 19:43:26 | Read | 2 records loaded.
+2026-05-22 19:43:31 | Read | 2 records loaded.
+2026-05-22 19:43:33 | SoftDelete | Soft deleted RecordId 1
+2026-05-22 19:43:33 | Save | 2 records saved.
+2026-05-22 19:43:37 | Read | 2 records loaded.
+2026-05-22 19:43:44 | Read | 2 records loaded.
+2026-05-22 19:44:26 | Save | 3 records saved.
+2026-05-22 19:44:26 | Add | Added RecordId 3
+2026-05-22 19:44:28 | Read | 3 records loaded.
+2026-05-22 19:44:44 | Read | 3 records loaded.
+2026-05-22 19:47:51 | InitializeStorage | Storage folder and files created.
+2026-05-22 19:47:53 | Read | 3 records loaded.
+2026-05-22 19:48:34 | Save | 4 records saved.
+2026-05-22 19:48:34 | Add | Added RecordId 4
+2026-05-22 19:48:38 | Read | 4 records loaded.
+2026-05-22 19:49:02 | Read | 4 records loaded.
+2026-05-22 19:49:05 | Read | 4 records loaded.
+2026-05-22 19:49:07 | Read | 4 records loaded.
+2026-05-22 19:50:28 | InitializeStorage | Storage folder and files created.
+2026-05-22 19:50:32 | Read | 4 records loaded.
+2026-05-22 19:51:29 | Read | 4 records loaded.
+2026-05-22 19:52:22 | Read | 4 records loaded.
+2026-05-22 19:53:00 | Save | 5 records saved.
+2026-05-22 19:53:00 | Add | Added RecordId 5
+2026-05-22 19:53:03 | Read | 5 records loaded.
+2026-05-22 19:53:11 | Read | 5 records loaded.
+2026-05-22 20:01:17 | InitializeStorage | Storage folder and files created.
+2026-05-22 20:01:23 | Read | 5 records loaded.
+2026-05-22 20:01:52 | Save | 6 records saved.
+2026-05-22 20:01:52 | Add | Added RecordId 6
+2026-05-22 20:01:55 | Read | 6 records loaded.
+2026-05-22 20:02:57 | InitializeStorage | Storage folder and files created.
+2026-05-22 20:10:19 | InitializeStorage | Storage folder and files created.
+2026-05-22 20:10:24 | Read | 6 records loaded.
+2026-05-22 20:10:28 | SoftDelete | Soft deleted RecordId 1
+2026-05-22 20:10:28 | Save | 6 records saved.
+2026-05-22 20:10:34 | Read | 6 records loaded.
+2026-05-22 20:10:43 | Read | 6 records loaded.
+2026-05-22 20:10:45 | SoftDelete | Soft deleted RecordId 3
+2026-05-22 20:10:45 | Save | 6 records saved.
+2026-05-22 20:10:52 | Read | 6 records loaded.
+2026-05-22 20:10:54 | SoftDelete | Soft deleted RecordId 4
+2026-05-22 20:10:54 | Save | 6 records saved.
+2026-05-22 20:10:57 | Read | 6 records loaded.
+2026-05-22 20:10:59 | SoftDelete | Soft deleted RecordId 5
+2026-05-22 20:10:59 | Save | 6 records saved.
+2026-05-22 20:11:00 | Read | 6 records loaded.
+2026-05-22 20:11:09 | Read | 6 records loaded.
+2026-05-22 20:11:10 | SoftDelete | Soft deleted RecordId 6
+2026-05-22 20:11:10 | Save | 6 records saved.
+2026-05-22 20:11:13 | Read | 6 records loaded.
+2026-05-22 20:13:26 | InitializeStorage | Storage folder and files created.
